@@ -1,6 +1,6 @@
 Panic
 ====
-(Game) Server testing tool.
+(Game) Server testing framework.
 
 Client
 ----
